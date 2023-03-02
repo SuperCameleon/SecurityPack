@@ -35,3 +35,5 @@ Thank you for all mod creators and their mods :
 **henkelmax** for *Advanced Mining Dimension* and *Simple Voice Chat* ;
 **HyCraftHD** for *GJEB (GammaJustExtremeBrigh) ;
 **InfernalStudios** for *Mining Master* ;
+**Jaredlll08** for *Clumps* and *Controlling* ;
+**jtl_elisa** for *Library Ferret* ;
