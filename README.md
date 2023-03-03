@@ -37,3 +37,6 @@ Thank you for all mod creators and their mods :
 **InfernalStudios** for *Mining Master* ;
 **Jaredlll08** for *Clumps* and *Controlling* ;
 **jtl_elisa** for *Library Ferret* ;
+**LainMI** for *Cosmetic Armor Reworked* ;
+**LatvianModder** for *KubeJS*, *Item Filter* and *Rhino* ;
+**LobsterJonn** for *Blue Flame Burning* ;
