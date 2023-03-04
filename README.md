@@ -40,3 +40,10 @@ Thank you for all mod creators and their mods :
 **LainMI** for *Cosmetic Armor Reworked* ;
 **LatvianModder** for *KubeJS*, *Item Filter* and *Rhino* ;
 **LobsterJonn** for *Blue Flame Burning* ;
+**malte0811** for *FarriteCore (Forge)* ;
+**Mari_023** for *Applied Energistics 2 Wireless Terminals* ;
+**matyrobbrt** for *Eating Animation [Forge]* ;
+**MehVahdJukaar** for Moonlight Lib* and *Smarter Farmer* ;
+**mezz** for *Just Enough Items (JEI)* ;
+**MrCrayfish** for *Goblin Trader* ;
+**MRHminer** for *Create Crafts & Additions* ;
