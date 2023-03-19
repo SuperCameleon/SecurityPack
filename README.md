@@ -30,7 +30,7 @@ Thank for all mod creators and their mods :
 **faboslav** for *Friends&Foes (forge)* ;
 **Forstride** for *Biomes O' Plenty* ;
 **FTB team** for *FTB backups 2*, *FTB Teams (Forge)*, *FTB Library (Forge)*, *FTB Quests (Forge)* and *FTB Ranks (Forge)* ;
-**Furti_Two** for *Create Stuff & Additions* and *Create Confectionery* ;
+**Furti_Two** for *Create Stuff & Additions*, *Nether's Exoticism* and *Create Confectionery* ;
 **fusionstudiomc** for *Rotten Creatures* ;
 **Fuzs_** for *Visual Workbench*, *Trading Post*, *Puzzles Lib*, *Diagonal Fences*, *Air Hop*, *Better Tridents*, *Magnum Torch* and *Tiny Skeleton* ;
 **Geforce132** for *Security Craft* ;
@@ -43,6 +43,7 @@ Thank for all mod creators and their mods :
 **LainMI** for *Cosmetic Armor Reworked* ;
 **LatvianModder** for *KubeJS*, *Item Filter* and *Rhino* ;
 **LobsterJonn** for *Blue Flame Burning* ;
+**lumpazle** for *Nether's Delight* ;
 **malte0811** for *FarriteCore (Forge)* ;
 **Mari_023** for *Applied Energistics 2 Wireless Terminals* ;
 **matyrobbrt** for *Eating Animation [Forge]* ;
