@@ -47,7 +47,8 @@ Thank for all mod creators and their mods :
 **Mari_023** for *Applied Energistics 2 Wireless Terminals* ;
 **matyrobbrt** for *Eating Animation [Forge]* ;
 **marshycity** for *Better Recipe Books** ;
-**MehVahdJukaar** for Moonlight Lib* and *Smarter Farmer* ;
+**MehVahdJukaar** for Moonlight Lib*, *Smarter Farmer*, *Better Lily Pads*, *Just Enough Effect Description*, *MmmMmmMmmMmm*, *You've Goat to be Kidding Me!
+* and *Moyai* ;
 **mezz** for *Just Enough Items (JEI)* ;
 **MrCrayfish** for *Goblin Trader* ;
 **MRHminer** for *Create Crafts & Additions* ;
