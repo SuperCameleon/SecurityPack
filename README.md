@@ -4,7 +4,7 @@ By Super_cameleon
 
 Special thanks for beta-testeur :
 
-Thank you for all mod creators and their mods :
+Thank for all mod creators and their mods :
 **AbrarSyed** for *SecretRoomsMod* ;
 **AkashiiKun69** for More *Axolotl Variants Mods* and *More Axolotl Variants API* ;
 **AlgorithmX2** for *Applied Energetics 2* ;
@@ -14,7 +14,7 @@ Thank you for all mod creators and their mods :
 **Benimatic** for *The Twilight Forest* ;
 **BlayTheNinth** for *Balm (forge edition)* and *Waystones* ;
 **BR4NDER5** for *Sulfur & potassium - More Gunpowder* ;
-**bradyaidanc** for *Mekanism* ;
+**bradyaidanc** for *Mekanism* and *Mekanism Generator* ;
 **bre2el** for *FPS reducer* ;
 **Chaosyr** for *Notes* ;
 **Conczin** for *Immersive Armors* ;
@@ -23,17 +23,19 @@ Thank you for all mod creators and their mods :
 **CreativeMD** for *AmbientSounds 5* and *CreativeCore* ;
 **Dark_Arcana** for *ChemLib*, *AlchemyLib* and *Alchemistry* ;
 **DarkhaxDev** for *Bookshelf* and *Enchentments Description* ;
+**dragons_plus** for *Create enchantements Industry* ;
 **EwyBoy** for *World Stripper* ;
 **f1ashfyre** for *Blaze Gear* ;
 **faboslav** for *Friends&Foes (forge)* ;
 **Forstride** for *Biomes O' Plenty* ;
 **FTB team** for *FTB backups 2*, *FTB Teams (Forge)*, *FTB Library (Forge)*, *FTB Quests (Forge)* and *FTB Ranks (Forge)* ;
+**Furti_Two** for *Create Stuff & Additions* and *Create Confectionery* ;
 **fusionstudiomc** for *Rotten Creatures* ;
 **Fuzs_** for *Visual Workbench*, *Trading Post*, *Puzzles Lib*, *Diagonal Fences*, *Air Hop*, *Better Tridents*, *Magnum Torch* and *Tiny Skeleton* ;
 **Geforce132** for *Security Craft* ;
 **Grend_G** for *Merchant Markers*, *Iceberg [forge]* and *Advancement Plaques [forge]* ;
 **henkelmax** for *Advanced Mining Dimension* and *Simple Voice Chat* ;
-**HyCraftHD** for *GJEB (GammaJustExtremeBrigh) ;
+**HyCraftHD** for *GJEB (GammaJustExtremeBrigh)* ;
 **InfernalStudios** for *Mining Master* ;
 **Jaredlll08** for *Clumps* and *Controlling* ;
 **jtl_elisa** for *Library Ferret* ;
@@ -43,6 +45,7 @@ Thank you for all mod creators and their mods :
 **malte0811** for *FarriteCore (Forge)* ;
 **Mari_023** for *Applied Energistics 2 Wireless Terminals* ;
 **matyrobbrt** for *Eating Animation [Forge]* ;
+**marshycity** for *Better Recipe Books** ;
 **MehVahdJukaar** for Moonlight Lib* and *Smarter Farmer* ;
 **mezz** for *Just Enough Items (JEI)* ;
 **MrCrayfish** for *Goblin Trader* ;
@@ -53,6 +56,7 @@ Thank you for all mod creators and their mods :
 **Official_CreeperHost** for *PolyLib* ;
 **Okabintaro** for *Untitled Duck Mod (Forge)* ;
 **olafskiii** for *Fast Leaf Decay* ;
-**OrderedChaosDev** for *Project: Vibrant Journeys* ;
+**possible_triangle** for *Create Slice & Dice* ;
 **ProgWML6** for *Iron Chests* ;
+**Robocraft999** for *Create Plus* ;
 **Ruuubi** for *Water Strainer* ;
