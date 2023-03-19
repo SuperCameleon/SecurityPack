@@ -47,3 +47,12 @@ Thank you for all mod creators and their mods :
 **mezz** for *Just Enough Items (JEI)* ;
 **MrCrayfish** for *Goblin Trader* ;
 **MRHminer** for *Create Crafts & Additions* ;
+**NCP_Bails** for *Alex's Delight* ;
+**nicguzzo** for *Deepslate Instamine - Fabric/Forge* ;
+**NoComment1105** for *Deepslate Cutting* ;
+**Official_CreeperHost** for *PolyLib* ;
+**Okabintaro** for *Untitled Duck Mod (Forge)* ;
+**olafskiii** for *Fast Leaf Decay* ;
+**OrderedChaosDev** for *Project: Vibrant Journeys* ;
+**ProgWML6** for *Iron Chests* ;
+**Ruuubi** for *Water Strainer* ;
