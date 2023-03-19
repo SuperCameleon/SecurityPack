@@ -5,6 +5,7 @@ By Super_cameleon
 Special thanks for beta-testeur :
 
 Thank for all mod creators and their mods :
+
 **AbrarSyed** for *SecretRoomsMod* ;
 **AkashiiKun69** for More *Axolotl Variants Mods* and *More Axolotl Variants API* ;
 **AlgorithmX2** for *Applied Energetics 2* ;
