@@ -40,6 +40,7 @@ Thank for all mod creators and their mods :
 **InfernalStudios** for *Mining Master* ;
 **Jaredlll08** for *Clumps* and *Controlling* ;
 **jtl_elisa** for *Library Ferret* ;
+**kli_kli** for *Occultism* ;
 **LainMI** for *Cosmetic Armor Reworked* ;
 **LatvianModder** for *KubeJS*, *Item Filter* and *Rhino* ;
 **LobsterJonn** for *Blue Flame Burning* ;
@@ -50,7 +51,7 @@ Thank for all mod creators and their mods :
 **marshycity** for *Better Recipe Books** ;
 **MehVahdJukaar** for Moonlight Lib*, *Smarter Farmer*, *Better Lily Pads*, *Just Enough Effect Description*, *MmmMmmMmmMmm*, *You've Goat to be Kidding Me!* and *Moyai* ;
 **mezz** for *Just Enough Items (JEI)* ;
-**MrCrayfish** for *Goblin Trader* ;
+**MrCrayfish** for *Goblin Trader* and *Catalogue*;
 **MRHminer** for *Create Crafts & Additions* ;
 **MythrilBagels** for *Create: Alloyed* ;
 **NCP_Bails** for *Alex's Delight* ;
