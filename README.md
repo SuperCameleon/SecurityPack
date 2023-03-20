@@ -52,6 +52,7 @@ Thank for all mod creators and their mods :
 **mezz** for *Just Enough Items (JEI)* ;
 **MrCrayfish** for *Goblin Trader* ;
 **MRHminer** for *Create Crafts & Additions* ;
+**MythrilBagels** for *Create: Alloyed* ;
 **NCP_Bails** for *Alex's Delight* ;
 **nicguzzo** for *Deepslate Instamine - Fabric/Forge* ;
 **NoComment1105** for *Deepslate Cutting* ;
