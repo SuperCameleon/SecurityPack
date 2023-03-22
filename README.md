@@ -80,6 +80,7 @@ Thanks for all mod creators and their mods :
 **techbrew** for  *JourneyMap* ;
 **Technomancer_isTaken** for *Essentials* ;
 **Terrails** for *Health Overlay* ;
+**tfarecnim** for *Metal B arrel* ;
 **The_Millman** for *Waterlogged redstone* ;
 **TheAdubbz** for *TerraBlender* and *Serene Seasons* ;
 **TheAdubbz** for *Kotlin for Forge* ;
