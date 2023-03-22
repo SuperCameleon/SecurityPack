@@ -4,7 +4,7 @@ By Super_cameleon
 
 Special thanks for beta-testeur :
 
-Thank for all mod creators and their mods :
+Thanks for all mod creators and their mods :
 
 **AbrarSyed** for *SecretRoomsMod* ;
 **AkashiiKun69** for More *Axolotl Variants Mods* and *More Axolotl Variants API* ;
@@ -64,3 +64,32 @@ Thank for all mod creators and their mods :
 **ProgWML6** for *Iron Chests* ;
 **Robocraft999** for *Create Plus* ;
 **Ruuubi** for *Water Strainer* ;
+**SameDifferent** for *Ecologics* and *More Villager* ;
+**sbom_xela* for *Citadel* and *Alex's Mobs* ;
+**Scimiguy** for *SmartBrainLib* ;
+**Serilum** for *Bottled Air*, *Collective* and *Placeable Blaze Rod* ;
+**Shadows_of_Fire** for *FastSuite*, *FastWorkbench*, *Toast Control*, *Pack Menu*, *Apotheosis*, *Placebo* and *FastFurnace* ;
+**shedaniel** for *Architectury API*, *Light Overlay* and *Cloth Config API* ;
+**simibubi** for *Create* ;
+**Snownee_** for *Jade 🔍* and *Jade Addons* ;
+**squeek502** for *AppleSkin* ;
+**Sunekaer** for *Simple Discord Rich Presence* ;
+**SuperMartijn642** for *SuperMartijn642's config lib*, *Re-chiseled* and *SuperMartijn642's core lib* ;
+**tarinoita** for *Spice of Life : Sweet potatoes edition* ;
+**TeamCoFH** for *CoFH core* ;
+**techbrew** for  *JourneyMap* ;
+**Technomancer_isTaken** for *Essentials* ;
+**Terrails** for *Health Overlay* ;
+**The_Millman** for *Waterlogged redstone* ;
+**TheAdubbz** for *TerraBlender* and *Serene Seasons* ;
+**TheAdubbz** for *Kotlin for Forge* ;
+**TheIllusiveC4** for *Curios API* and *Polymorph* ;
+**towdium** for *Just Enough Calculation* ;
+**treekicker4** for *Enchantment Trasnfer*
+**Tschipp** for *Carry One* ;
+**Vazkii** for *Patchouli*, *Botania*, *AutoRegLib*, *Quark* and *Quark Oddities* ;
+**vectorwing** for *Farmer's Delight* ;
+**way2muchnoise** for *Just Enough Resources* ;
+**XFactHD* for *PingHUD* ;
+**YaLTeR** for *Mouse Tweaks*
+**빨간라임** for Detail Armor Bar*
