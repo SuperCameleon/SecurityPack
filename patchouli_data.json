@@ -1,0 +1,24 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "apotheosis:apoth_chronicle": {
+      "viewedEntries": [
+        "apotheosis:garden/bamboo",
+        "apotheosis:adventure/bosses/boss_dungeons",
+        "apotheosis:adventure/bosses/surface_bosses",
+        "apotheosis:adventure/bosses/boss_items",
+        "apotheosis:garden/sugarcane"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "essentials:manual": {
+      "viewedEntries": [
+        "essentials:essentials/recipes"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}
