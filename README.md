@@ -69,6 +69,7 @@ Thanks for all mod creators and their mods :
 **sbom_xela* for *Citadel* and *Alex's Mobs* ;
 **Scimiguy** for *SmartBrainLib* ;
 **Serilum** for *Bottled Air*, *Collective* and *Placeable Blaze Rod* ;
+**Shadow** for *Aquaculture 2* ;
 **Shadows_of_Fire** for *FastSuite*, *FastWorkbench*, *Toast Control*, *Pack Menu*, *Apotheosis*, *Placebo* and *FastFurnace* ;
 **shedaniel** for *Architectury API*, *Light Overlay* and *Cloth Config API* ;
 **simibubi** for *Create* ;
