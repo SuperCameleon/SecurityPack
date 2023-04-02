@@ -62,6 +62,7 @@ Thanks for all mod creators and their mods :
 **olafskiii** for *Fast Leaf Decay* ;
 **possible_triangle** for *Create Slice & Dice* ;
 **ProgWML6** for *Iron Chests* ;
+**QueenOfMissils** for *AI Improvements* ;
 **Robocraft999** for *Create Plus* ;
 **Ruuubi** for *Water Strainer* ;
 **SameDifferent** for *Ecologics* and *More Villager* ;
