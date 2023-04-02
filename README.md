@@ -35,7 +35,7 @@ Thanks for all mod creators and their mods :
 **Fuzs_** for *Visual Workbench*, *Trading Post*, *Puzzles Lib*, *Diagonal Fences*, *Air Hop*, *Better Tridents*, *Magnum Torch* and *Tiny Skeleton* ;
 **Geforce132** for *Security Craft* ;
 **Grend_G** for *Merchant Markers*, *Iceberg [forge]* and *Advancement Plaques [forge]* ;
-**henkelmax** for *Advanced Mining Dimension*, *Pipez* and *Simple Voice Chat* ;
+**henkelmax** for *Advanced Mining Dimension*, *Sound Physics Remastered*, *Pipez* and *Simple Voice Chat* ;
 **HyCraftHD** for *GJEB (GammaJustExtremeBrigh)* ;
 **InfernalStudios** for *Mining Master* ;
 **Jaredlll08** for *Clumps* and *Controlling* ;
