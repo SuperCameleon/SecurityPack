@@ -23,7 +23,7 @@ Thanks for all mod creators and their mods :
 **covers1624** for *Ender Storage 1.8.+*, *CodeChiken Lib 1.8.+* and *Chiken Chunks 1.8.+* ;
 **CreativeMD** for *AmbientSounds 5* and *CreativeCore* ;
 **Dark_Arcana** for *ChemLib*, *AlchemyLib* and *Alchemistry* ;
-**DarkhaxDev** for *Bookshelf*, *Better Burning* and *Enchentments Description* ;
+**DarkhaxDev** for *Bookshelf* and *Enchentments Description* ;
 **dragons_plus** for *Create enchantements Industry* ;
 **EwyBoy** for *World Stripper* ;
 **f1ashfyre** for *Blaze Gear* ;
