@@ -85,6 +85,7 @@ Thanks for all mod creators and their mods :
 **TheAdubbz** for *TerraBlender* and *Serene Seasons* ;
 **TheAdubbz** for *Kotlin for Forge* ;
 **TheIllusiveC4** for *Curios API* and *Polymorph* ;
+**ThetaDev** for *Construction Wand* ;
 **towdium** for *Just Enough Calculation* ;
 **treekicker4** for *Enchantment Trasnfer*
 **Tschipp** for *Carry One* ;
