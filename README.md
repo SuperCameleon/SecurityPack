@@ -1,4 +1,7 @@
-# SecurityPack
+# IMPORTANT repository outdated
+The modpack and this repository is no longer updated.
+
+## SecurityPack (also survivamod)
 Modpack for minecraft 1.19.2
 By Super_cameleon
 
@@ -95,6 +98,6 @@ Thanks for all mod creators and their mods :
 **Vazkii** for *Patchouli*, *Botania*, *AutoRegLib*, *Quark* and *Quark Oddities* ;
 **vectorwing** for *Farmer's Delight* ;
 **way2muchnoise** for *Just Enough Resources* ;
-**XFactHD* for *PingHUD* ;
+**XFactHD** for *PingHUD* ;
 **YaLTeR** for *Mouse Tweaks*
 **빨간라임** for Detail Armor Bar*
